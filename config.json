@@ -1,0 +1,16 @@
+{
+    "enabled": true,
+    "token_age_limit_minutes": 180,
+    "volume_spike_ratio": 5,
+    "buy_sell_ratio": 1.5,
+    "ema_fast": 8,
+    "ema_slow": 21,
+    "rsi_min": 50,
+    "rsi_max": 70,
+    "whale_tx_threshold": 0.05,
+    "check_anti_rug": true,
+    "telegram_tag": "#ShortTerm",
+    "telegram_bot_token": "8414751310:AAFvmdN9E9wREW0lA-uOFAFn5XyDHpqudVI",
+    "telegram_chat_id": "285475436",
+    "github_config_url": "https://raw.githubusercontent.com/yourusername/solana-memecoin-bot/main/config.json"
+}
